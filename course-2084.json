@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-binlingChen",
-  "commit": "ed66ef5bb63ee8799eafec67a52b3741b42c83ae",
+  "commit": "95249a82b44ee268a7e4e5b3ca4c9f3fd4bd2d88",
   "score": 46,
   "totalScore": 110,
   "exercises": [
@@ -778,9 +778,9 @@
     }
   ],
   "student": "binlingChen",
-  "runId": "38053610875",
+  "runId": "38053799056",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
